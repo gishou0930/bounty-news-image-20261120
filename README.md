@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261120/gishou0930/bounty-news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![reward](https://make.fun/badge/news-image-20261120/gishou0930/bounty-news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-An illustrated front page for Friday, 20 November 2026. The COP31 deadlock leads eight stories spanning climate, war, markets, human rights, diplomacy, and public health. [Reporting notes](SOURCES.md)
+An illustrated front page with 35 dated stories across seven regions, led by Cyclone Akvan, strikes on Kyiv, and the Asian AI sell-off. Each story names its source; the date-check note distinguishes Friday reporting from earlier events. [Reporting notes](SOURCES.md)
 
 ![The 20 November 2026 World Edition front page](world-edition.jpg)
 
