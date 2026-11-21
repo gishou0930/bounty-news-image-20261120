@@ -49,3 +49,10 @@ This edition covers events that happened or were first reported on Friday, 20 No
 ## Date check
 
 The ICJ judgment on Myanmar’s Rohingya genocide case and the Trump–Xi–Putin summit occurred on Thursday, 19 November; Friday’s Myanmar response and Russian media reaction are identified as Friday reports. WHO’s Ebola figures run through 17 November. Anthropic’s Nasdaq debut also took place on 19 November and is not presented as a Friday event.
+
+## UTC timeline
+
+- **02:00–03:00 UTC · Akvan landfall.** Hindustan Times reports the storm crossed near Gopalpur between 07:30 and 08:30 IST on 20 November. [Hindustan Times](https://www.hindustantimes.com/india-news/cyclone-akvan-completes-landfall-on-odisha-coast-lashes-state-with-heavy-rain-101795162109520.html)
+- **06:30 UTC · Tokyo cash-market close.** The Tokyo Stock Exchange’s cash-equity session closes at 15:30 JST. [Japan Exchange Group](https://www.jpx.co.jp/english/equities/trading/domestic/04.html)
+- **08:04 UTC · BBC report.** The BBC’s Kyiv-bridges report is timestamped 20 November 2026, 08:04 GMT. [BBC News](https://www.bbc.com/news/articles/c6x29gn4pdn9o)
+- **21:00 UTC · New York close.** NYSE’s core session closes at 16:00 ET; New York was on EST on 20 November. AP reports the S&P 500 fell 3.7% at Friday’s close. [NYSE trading information](https://www.nyse.com/trade/trading-information) · [Associated Press](https://apnews.com/article/c10b797a17c2acf37924d834efebe135)
